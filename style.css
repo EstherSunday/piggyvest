@@ -1,0 +1,134 @@
+*{
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+
+.img11{
+  justify-content: space-around;
+ display: flex;
+ margin-top: 20px;
+ 
+}
+
+.img1{
+  width: 40px;
+  height: 40px;
+}
+
+p{
+  justify-content: space-around;
+  display: flex;
+  margin-top: 1%;
+  cursor: pointer;
+
+}
+
+
+.nav1{
+  justify-content: space-evenly;
+ display: flex;
+
+}
+
+
+.link{
+  margin-top: 0%;
+  list-style: none;
+  font-size: 20;
+  z-index: 10;
+ 
+}
+
+ul {
+  display: contents;
+
+}
+
+
+.home{
+ margin-top: 30px;
+ 
+}
+
+
+
+
+.title{
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  font-size: 30px;
+color:blueviolet;
+cursor: pointer;
+text-align: center;
+  
+}
+
+
+img{
+  width: 100%;
+  height: 80vh;
+  background-image: url(./Asset\ 3.png);
+ 
+}
+
+.h1{
+  margin-top: 7px;
+
+}
+
+.Lorem{
+  text-align: center;
+ padding: 10px;
+  margin-top: 7px;
+  
+}
+
+.divs{
+  margin-top: 10px;
+  padding: 20px;
+  /* background-color: aquamarine; */
+  justify-content: center;
+ justify-content:space-evenly;
+  display: flex;
+ color:blueviolet;
+ padding: 10px;
+  
+}
+
+
+
+.pic{
+  background-color: bisque;
+  width: 100%;
+  height: 50vh;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.joy1{
+  background-color: aqua;
+  width: 20%;
+  height: 40vh;
+border-radius: 50px;
+}
+.joy2{
+  background-color: aqua;
+  width: 20%;
+  height: 40vh;
+  border-radius: 50px;
+
+}
+.joy3{
+  background-color: aqua;
+  width: 20%;
+  height: 40vh;
+  border-radius: 50px;
+margin-top: 5px;
+}
+
+
